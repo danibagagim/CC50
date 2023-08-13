@@ -2,7 +2,7 @@
 #include <stdio.h>
 int main(void)
 {
- string answer = get_string("Qual é o seu nome?");
- printf("olá, %s", resposta);
+ string resposta = get_string("Qual é o seu nome?");
+ printf("olá, %s! ", resposta);
 }
 
