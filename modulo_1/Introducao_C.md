@@ -1,0 +1,16 @@
+### Neste módulo foi abordado os seguintes tópicos: 
+- linguagem C
+- CS50 IDE
+- Compilação
+- Funções e argumentos
+- Função principal(main) e arquivos de cabeçalho
+- Ferramentas
+- Comandos
+- Tipos e Códigos de Formato
+- Operadores, limitações, truncamento
+- Variáveis
+- Condicionais
+- Expressões booleanas, loops
+- Abstração
+- Mario
+- Memória, imprecisão e overflow
